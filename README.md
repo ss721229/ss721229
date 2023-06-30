@@ -12,7 +12,7 @@
   <h2 align="center">경력 및 수상</h2>
   <ul>
     <li> 2019, 세종대학교 제6회 SW코딩경시대회 장려상</li>
-    <li> 2023,『올담』 데이터 활용 시각화 경진대회 우수상</li>
+    <li><a href="https://github.com/ss721229/alldam">2023,『올담』 데이터 활용 시각화 경진대회 우수상</a></li>
   </ul>
 </div>
 </br></br>
