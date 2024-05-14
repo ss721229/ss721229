@@ -24,11 +24,6 @@
   </div>
 </div>
 
-<div align="center">
-  <h2>Blog</h2>
-  <img alt="Static Badge" src="https://img.shields.io/badge/tistory-blue?style=for-the-badge&logo=tistory&color=orange">
-</div>
-
 <div>
   <h2 align="center">etc</h2>
   <div align="center">
