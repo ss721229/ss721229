@@ -26,13 +26,16 @@
 
 <div>
   <h2 align="center">etc</h2>
-  <div align="center">
-    <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/ss721229"/ ></a>
-  </div>
+
   <div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss721229"/>
   </div>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/ss721229"/ ></a>
+</div>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fss721229&count_bg=%23FFA800&title_bg=%23FF0000&icon=&icon_color=%23CD2A2A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
+
 
