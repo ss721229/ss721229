@@ -27,6 +27,9 @@
 <div>
   <h2 align="center">etc</h2>
   <div align="center">
+    <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/ss721229"/ ></a>
+  </div>
+  <div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss721229"/>
   </div>
 
