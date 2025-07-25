@@ -11,6 +11,8 @@
 <div>
   <h2 align="center">Awards</h2>
   <div align="center">
+    <h3>2025</h3>
+    <span><a href="https://github.com/TriptoTravel">세종대학교 창의설계경진대회</a>, 최우수상</span><br>
     <h3>2024</h3>
     <span>세종대학교 소프트웨어융합대학 학술제 아이디어 부문, 우수상</span><br>
     <span>AI Challenge For Biodiversity 아이디어톤, 장려상</span><br>
